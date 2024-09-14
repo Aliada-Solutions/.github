@@ -5,7 +5,7 @@
 <h1 align="center">Welcome to Aliada Solutions' Github</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Rubik&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Audio Tools;asdf;" alt="Typing SVG" />
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Rubik&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Solo Artists and Bands;Songwriters;Music Teachers and Students;Mixing Engineers;Mastering Engineers;Live Sound Engineers;Composers;Producers;Sound Designers;Podcasters;Voice Over Artists;Studios;Recording Labels" alt="Typing SVG" /> -->
 
 </p>
 
@@ -55,7 +55,11 @@
 
 <h2 align="center">🚀 About Aliada</h2>
 
-As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud Computing, Artificial Intelligence/Machine Learning, and high-quality streaming technologies. With a proven track record of driving innovation, I am committed to leveraging advanced AI solutions to boost productivity and foster creative problem-solving in technology. My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.
+Aliada is designed to empower audio professionals at every level, from solo artists and bands to podcasters and professional studios.
+
+Our platform revolutionizes your workflow, facilitates seamless collaboration, and manages the intricate details of audio production.
+
+With Aliada, you can boost productivity and unleash your creative potential, allowing you to accomplish more in less time.
 
 <br>
 
